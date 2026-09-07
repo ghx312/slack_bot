@@ -2,17 +2,6 @@
 
 A Slack bot that responds to slash commands with cat facts, jokes, and latency checks — running 24/7 on a self-hosted server.
 
-![very-chill-cat in action](./screenshot.png)
-
-<!-- Replace screenshot.png with a real screenshot or GIF of the bot answering commands in Slack.
-     Put the image file in the repo root, or in a /docs folder and update the path. -->
-
-## Try it
-
-Add the bot to your workspace: **[Install very-chill-cat](YOUR_INSTALL_LINK_HERE)**
-
-Once installed, type `/very-chill-cat-help` in any channel to see what it can do.
-
 ## Features
 
 - `/very-chill-cat-ping` — measures round-trip latency to the Slack API and reports it in milliseconds
